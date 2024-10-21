@@ -7,6 +7,7 @@ const skillsData = [
     { skill: 'Ngoding', level: 'Advanced' },
     { skill: 'Camping', level: 'Intermediate' },
     { skill: 'Hiking', level: 'Intermediate' },
+    
 ];
 
 const Skills: React.FC = () => {
