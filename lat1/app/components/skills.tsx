@@ -4,8 +4,9 @@ import './skills.css';
 const skillsData = [
     { skill: 'Gaming', level: 'Advanced' },
     { skill: 'Konsultan', level: 'Intermediate' },
-    { skill: 'CSS', level: 'Advanced' },
-    { skill: 'Node.js', level: 'Intermediate' },
+    { skill: 'Ngoding', level: 'Advanced' },
+    { skill: 'Camping', level: 'Intermediate' },
+    { skill: 'Hiking', level: 'Intermediate' },
 ];
 
 const Skills: React.FC = () => {
